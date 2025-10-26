@@ -1,4 +1,3 @@
-<p><small>hello i am rachel</small></p>
 
 analyst at morgan stanley
 
