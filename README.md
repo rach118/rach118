@@ -1,5 +1,3 @@
-hi, feel free to reach out
-
 interests: stochastic volatility, liquidity, cryptocurrency<br>
 
 skills: stochastic modelling, quantitative analysis, stress testing, predictive analytics, python, java, time series, regression<br>
