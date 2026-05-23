@@ -1,5 +1,3 @@
-interests: stochastic volatility, liquidity, cryptocurrency, AI<br>
+interests: stochastic volatility, cryptocurrency, AI and LLMs<br>
 
-skills: stochastic modelling, quantitative analysis, stress testing, predictive analytics, python, java, time series, regression<br>
-
-contact: 118rachelh@gmail.com
+tech stack: SQL (ClickHouse, PostgreSQL, Greenplum), Python (Pandas, NumPy, PySpark, Seaborn, Matplotlib, Apache Airflow), Java, HTML<br>
